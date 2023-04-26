@@ -1,0 +1,60 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+  
+    
+    h1{
+        color: white;
+        text-align: right;
+        font-size: 60px;
+        text-decoration: underline;
+        margin-right: 100px;
+       
+    }
+
+}
+
+.container form{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin: 0 auto;
+    margin-right: 100px;
+    width: 40%;
+
+        label{
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            margin-bottom: 20px;
+
+        }
+        input{
+            width: 300px;
+            margin: 0 auto;
+            height: 20px;
+            border-radius: 30px;
+            
+        }
+        textarea{
+            width: 350px;
+            margin: 0 auto;
+            border-radius: 30px;
+            margin-bottom: 40px;
+
+        }
+     
+}
+
+.datosContacto{
+    width: 40%;
+   
+   
+    h2{
+        color: white;
+        font-size: 40px;
+        display: inline-block;
+        
+      
+    }
+}
